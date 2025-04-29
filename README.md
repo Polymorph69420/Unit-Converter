@@ -17,13 +17,10 @@ Features:
 ⚡ Fast and accurate calculations
 
 Installation:
-1. Clone the repository
-2. Make sure you have Python 3.x installed. There are no other dependencies
-3. Simply run the python script
+1. Clone the repository.
+2. Make sure you have Python 3.x installed. There are no other dependencies.
+3. Simply run the python script.
 The GUI window will open, and you can start converting units immediately!
-
-Main Window
-(You can replace the placeholder with a real screenshot later!)
 
 Technologies Used:
 Python 3.x
